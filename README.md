@@ -1,3 +1,3 @@
-Check out my website at [mikebarberry.com](https://mikebarberry.com)
+You can find my website at [mikebarberry.com](https://mikebarberry.com)
 
- [Flatiron account](https://github.com/MikeBarberry-Flatiron)
+ Alternate GitHub account from my coding bootcamp at the Flatiron School [MikeBarberry-Flatiron](https://github.com/MikeBarberry-Flatiron)
