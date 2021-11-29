@@ -1,6 +1,6 @@
-[Personal Website](https://mikebarberry.com)
+[Personal Website: MikeBarberry.com](https://mikebarberry.com)
 
-[Dedicated Flatiron Account](https://github.com/MikeBarberry-Flatiron)
+[Dedicated Flatiron School (Bootcamp) Account](https://github.com/MikeBarberry-Flatiron)
  
-[Blog Posts](https://mikebarberry.medium.com/)
+[Blog Posts - Medium](https://mikebarberry.medium.com/)
  
