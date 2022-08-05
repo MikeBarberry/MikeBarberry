@@ -1,5 +1,5 @@
-My personal website: [MikeBarberry.com](https://mikebarberry.com)
+[MikeBarberry.com](https://mikebarberry.com) --> My personal website
 
-Github account I used during my Flatiron school bootcamp featuring coding labs and some projects: [MikeBarberry-Flatiron](https://github.com/MikeBarberry-Flatiron)
+[MikeBarberry-Flatiron](https://github.com/MikeBarberry-Flatiron) --> Github account I used during my Flatiron school bootcamp featuring coding labs and some projects
  
-Medium blog where I post tech-related articles: [Homepage](https://mikebarberry.medium.com/)
+[Homepage](https://mikebarberry.medium.com/) --> Medium blog where I post tech-related articles
