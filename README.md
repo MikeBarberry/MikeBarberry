@@ -1,7 +1,9 @@
-[Leetcode MBarberry](https://leetcode.com/Mbarberry/) --> My Leetcode account
+[MikeBarberry.com](https://mikebarberry.com) --> Personal website
 
-[MikeBarberry.com](https://mikebarberry.com) --> My personal website
+[Leetcode MBarberry](https://leetcode.com/Mbarberry/) --> LeetCode account
 
-[MikeBarberry-Flatiron](https://github.com/MikeBarberry-Flatiron) --> Github account I used during my Flatiron school bootcamp featuring coding labs and some projects
+[Medium](https://mikebarberry.medium.com/) --> Blog
+
+[MikeBarberry-Flatiron](https://github.com/MikeBarberry-Flatiron) --> Flatiron bootcamp account
  
-[Homepage](https://mikebarberry.medium.com/) --> Medium blog where I post tech-related articles
+
