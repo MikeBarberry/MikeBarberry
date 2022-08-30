@@ -2,7 +2,7 @@
 
 [Leetcode MBarberry](https://leetcode.com/Mbarberry/) --> LeetCode account
 
-[Medium](https://mikebarberry.medium.com/) --> Blog
+[Medium](https://mikebarberry.medium.com/) --> Tech Blog
 
 [MikeBarberry-Flatiron](https://github.com/MikeBarberry-Flatiron) --> Flatiron bootcamp GitHub account
  
