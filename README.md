@@ -4,6 +4,6 @@
 
 [Medium](https://mikebarberry.medium.com/) --> Blog
 
-[MikeBarberry-Flatiron](https://github.com/MikeBarberry-Flatiron) --> Flatiron bootcamp account
+[MikeBarberry-Flatiron](https://github.com/MikeBarberry-Flatiron) --> Flatiron bootcamp GitHub account
  
 
