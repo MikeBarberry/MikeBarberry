@@ -1,9 +1,9 @@
 [MikeBarberry.com](https://mikebarberry.com) --> My website
 
-[LeetCode](https://leetcode.com/Mbarberry/) --> Where I practice data structures and algorithms
+[MBarberry LeetCode](https://leetcode.com/Mbarberry/) --> Where I practice data structures and algorithms
 
-[Medium](https://mikebarberry.medium.com/) --> Tech Blog
+[Mike Barberry Medium](https://mikebarberry.medium.com/) --> Tech Blog
 
-[GitHub](https://github.com/MikeBarberry-Flatiron) --> Flatiron bootcamp account
+[MikeBarberry-Flatiron GitHub](https://github.com/MikeBarberry-Flatiron) --> Flatiron bootcamp account
  
 
