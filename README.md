@@ -1,4 +1,4 @@
-[MikeBarberry.com](https://mikebarberry.com) --> My website
+[MikeBarberry.com](https://mikebarberry.com) --> Personal website with a fun 3D graphic
 
 [LeetCode](https://leetcode.com/Mbarberry/) --> Where I practice data structures and algorithms
 
