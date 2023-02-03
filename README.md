@@ -1,9 +1,11 @@
-[MikeBarberry.com](https://mikebarberry.com) --> Personal website with a cool Three.js 3D animation
+My social media links:
 
-[LeetCode](https://leetcode.com/Mbarberry/) --> Where I practice data structures and algorithms
+Personal website with a cool Three.js 3D animation  -->  [MikeBarberry.com](https://mikebarberry.com)
 
-[Medium](https://mikebarberry.medium.com/) --> Software engineering blog
+Where I practice data structures and algorithms  --> [LeetCode](https://leetcode.com/Mbarberry/)
 
-[GitHub](https://github.com/MikeBarberry-Flatiron) --> Dedicated bootcamp account. My projects are forked here
+Software engineering blog  --> [Medium](https://mikebarberry.medium.com/)
+
+Dedicated bootcamp account. My projects are forked here   -->  [GitHub](https://github.com/MikeBarberry-Flatiron)
  
 
