@@ -1,6 +1,6 @@
 ## My social media links :rocket::
 
- - Personal website that features a Three.js animation of a Tokyo city block  :heart:  [MikeBarberry.com](https://mikebarberry.com)
+ - Personal website that features an animated Tokyo city block built with Three.js  :heart:  [MikeBarberry.com](https://mikebarberry.com)
 
  - Where I practice algorithms & data structures  :computer:  [LeetCode](https://leetcode.com/Mbarberry/)
 
