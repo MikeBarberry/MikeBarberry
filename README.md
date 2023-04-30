@@ -6,6 +6,6 @@
 
  - Software engineering blog  :pencil2:  [Medium](https://mikebarberry.medium.com/)
 
- - Bootcamp account. Most of those projects are cloned here   :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
+ - Bootcamp account. Most of the projects are cloned here   :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
  
 
