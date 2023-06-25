@@ -6,6 +6,6 @@
 
  - My engineering blog on Medium  :pencil2:  [Medium](https://mikebarberry.medium.com/)
 
- - Bootcamp account with many courses and projects. Most projects are cloned into this repo   :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
+ - Alt GitHub account from bootcamp with a lot of my completed lessons/labs   :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
  
 
