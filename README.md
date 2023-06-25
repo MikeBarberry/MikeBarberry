@@ -4,7 +4,7 @@
 
  - Where I improve my raw programming skills and practice algorithms  :computer:  [LeetCode](https://leetcode.com/Mbarberry/)
 
- - My engineering blog on Medium  :pencil2:  [Medium](https://mikebarberry.medium.com/)
+ - My hosted engineering blog  :pencil2:  [Medium](https://mikebarberry.medium.com/)
 
  - Alt GitHub account from bootcamp with a lot of my completed lessons/labs   :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
  
