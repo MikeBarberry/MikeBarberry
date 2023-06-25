@@ -1,4 +1,4 @@
-## Relevant Links :rocket::
+## More Links :rocket::
 
  - My website that features an animated Tokyo city with some informationa about me  :heart:  [MikeBarberry.com](https://mikebarberry.com)
 
