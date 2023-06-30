@@ -10,6 +10,4 @@
 
 &nbsp; 
 
-&nbsp;
-
 :grey_exclamation: All of my personal project websites are deployed as frontends on [Netlify](https://www.netlify.com) and backends on [AWS](https://aws.amazon.com) Lambda / API Gateway.
