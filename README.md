@@ -1,4 +1,4 @@
-## Links :rocket::
+## Bio :rocket::
 
  - My website that features an animated Tokyo city with some informationa about me  :heart:  [MikeBarberry.com](https://mikebarberry.com)
 
@@ -8,4 +8,4 @@
 
  - Alt GitHub account from bootcamp with a lot of my completed lessons/labs   :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
  
-
+All my frontends are deployed on Netlify and backends on AWS Lambda / API Gateway.
