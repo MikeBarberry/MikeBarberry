@@ -9,4 +9,4 @@
  - Alt GitHub account from bootcamp with a lot of my completed lessons/labs   :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
 
 <br />
-All of my personal project websites are deployed as frontends on Netlify, and backends on AWS Lambda / API Gateway.
+:grey_exclamation: All of my personal project websites are deployed as frontends on Netlify, and backends on AWS Lambda / API Gateway.
