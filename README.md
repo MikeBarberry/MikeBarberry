@@ -7,5 +7,6 @@
  - My hosted engineering blog  :pencil2:  [Medium](https://mikebarberry.medium.com/)
 
  - Alt GitHub account from bootcamp with a lot of my completed lessons/labs   :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
- 
-All my frontends are deployed on Netlify and backends on AWS Lambda / API Gateway.
+
+<br />
+All my personal project front ends are deployed on Netlify, and back ends on AWS Lambda / API Gateway.
