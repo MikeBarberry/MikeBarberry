@@ -10,4 +10,4 @@
 
 &nbsp;
 
-:grey_exclamation: All of my personal project websites are deployed as frontends on [Netlify](https://www.netlify.com) and backends on [AWS](https://aws.amazon.com) Lambda / API Gateway. Projects that have a database use [MongoDB](https://www.mongodb.com).
+:grey_exclamation: All of my personal project websites are deployed as frontends on [Netlify](https://www.netlify.com) and backends on [AWS](https://aws.amazon.com) Lambda / API Gateway. Projects that have a database use [MongoDB](https://www.mongodb.com). Languages that I use include: Python, Go, JavaScript / NodeJS, HTML and CSS. 
