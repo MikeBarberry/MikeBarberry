@@ -6,7 +6,7 @@
 
  - My engineering blog  :pencil2:  [Medium](https://mikebarberry.medium.com/)
 
- - Alt GitHub account from bootcamp with a lot of labs and lessons  :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
+ - Alternate GitHub account from bootcamp with a lot of labs and lessons  :boom:  [GitHub](https://github.com/MikeBarberry-Flatiron)
 
 &nbsp;
 
