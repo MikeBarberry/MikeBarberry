@@ -1,8 +1,8 @@
 ## Bio :rocket::
 
- - My website that features an animated Tokyo city with some informationa about me  :heart:  [MikeBarberry.com](https://mikebarberry.com)
+ - My website that features a Three.js animated & interactive graphic, also there are fireworks...  :heart:  [MikeBarberry.com](https://mikebarberry.com)
 
- - Where practice crafting algorithms and working with data structures  :computer:  [LeetCode](https://leetcode.com/Mbarberry/)
+ - Where I practice crafting algorithms and working with data structures  :computer:  [LeetCode](https://leetcode.com/Mbarberry/)
 
  - My engineering blog  :pencil2:  [Medium](https://mikebarberry.medium.com/)
 
