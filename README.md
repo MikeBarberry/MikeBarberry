@@ -1,6 +1,6 @@
 ## Bio :rocket::
 
- - My website that features a Three.js animated & interactive graphic, also there are fireworks...  :heart:  [MikeBarberry.com](https://mikebarberry.com)
+ - My website that features a Three.js animated & interactive graphic, there are also fireworks...  :heart:  [MikeBarberry.com](https://mikebarberry.com)
 
  - Where I practice crafting algorithms and working with data structures  :computer:  [LeetCode](https://leetcode.com/Mbarberry/)
 
