@@ -10,4 +10,4 @@
 
 &nbsp;
 
-:grey_exclamation: Many of my personal projects are deployed as front ends on [Netlify](https://www.netlify.com) and back ends on [AWS](https://aws.amazon.com) Lambda / API Gateway. Big shout out to Netlify for being awesome to work with and super cost effective.
+:grey_exclamation: Many of my personal projects are deployed as frontends on [Netlify](https://www.netlify.com) and backends on [AWS](https://aws.amazon.com) Lambda / API Gateway. Big shout out to Netlify for being awesome to work with and super cost effective.
