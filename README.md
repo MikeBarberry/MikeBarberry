@@ -1,4 +1,4 @@
-## Bio :rocket::
+## Other Links :rocket::
 
  - My website that features a Three.js animated & interactive graphic, there are also fireworks...  :heart:  [MikeBarberry.com](https://mikebarberry.com)
 
