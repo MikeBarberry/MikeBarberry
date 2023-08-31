@@ -1,6 +1,6 @@
 ## Other Links :link:::
 
- - Features and interactive 3D graphic of a Tokyo city street and fireworks  :train:  [MikeBarberry.com](https://mikebarberry.com)
+ - Features and interactive 3D graphic of a Tokyo city street, and fireworks :fireworks:  [MikeBarberry.com](https://mikebarberry.com)
 
  - Where I practice core coding skills  :computer:  [LeetCode](https://leetcode.com/Mbarberry/)
 
