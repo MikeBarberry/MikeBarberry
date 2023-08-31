@@ -8,5 +8,5 @@
 
  - GitHub alt account specifically for bootcamp :running:  [GitHub](https://github.com/MikeBarberry-Flatiron)
 
-## Shoutout :heart::
+## Shoutout :raised_hands::
 Big shout out to [Netlify](https://www.netlify.com/) for being awesome to use (and free!). Many of my personal project front ends are deployed there.
