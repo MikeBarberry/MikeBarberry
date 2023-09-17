@@ -10,3 +10,6 @@
 
 ## Shoutouts :raised_hands::
 Shoutout to [Netlify](https://www.netlify.com/) for being great to use (and free!). Many of my personal project front ends are deployed there.
+
+## Glossary :notebook::
+CRUD means create, read, update and delete. Usually refers to a software product that's connected to a database. 
