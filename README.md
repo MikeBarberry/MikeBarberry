@@ -9,4 +9,4 @@
  - GitHub alt account specifically for bootcamp :heavy_check_mark:  [GitHub](https://github.com/MikeBarberry-Flatiron)
 
 ## Shoutouts :raised_hands::
-Shoutout to [Netlify](https://www.netlify.com/) for being awesome to use (and free!). Many of my personal project front ends are deployed there.
+Shoutout to [Netlify](https://www.netlify.com/) for being awesome to use (and free!). Many of my personal project front ends are deployed with them.
