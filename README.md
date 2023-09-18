@@ -9,7 +9,4 @@
  - GitHub alt account specifically for bootcamp :heavy_check_mark:  [GitHub](https://github.com/MikeBarberry-Flatiron)
 
 ## Shoutouts :raised_hands::
-Shoutout to [Netlify](https://www.netlify.com/) for being great to use (and free!). Many of my personal project front ends are deployed there.
-
-## Glossary :notebook::
-CRUD means create, read, update and delete. Refers to software with a user interface connected to a server and database. 
+Shoutout to [Netlify](https://www.netlify.com/) for being awesome to use (and free!). Many of my personal project front ends are deployed there.
