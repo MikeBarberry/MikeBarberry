@@ -1,4 +1,4 @@
-## Other Links :link:::
+## Other Links :link::
 
  - Features an interactive 3D graphic of a Tokyo city street, and fireworks :fireworks:  [MikeBarberry.com](https://mikebarberry.com)
 
