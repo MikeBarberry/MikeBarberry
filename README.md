@@ -12,4 +12,4 @@
 Shoutout to [Netlify](https://www.netlify.com/) for being awesome to use (and free!). Many of my personal project front ends are deployed with them.
 
 
-![image title](http://localhost:6969/test)
+![image title](https://solid-icons-begin.loca.lt/hello)
