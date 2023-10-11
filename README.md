@@ -8,7 +8,7 @@
 
  - Dedicated bootcamp GitHub [account](https://github.com/MikeBarberry-Flatiron) :couple:
    
-## Acknowledgements :raised_hands::
+## Acknowledgements :pray::
 Big thanks to [Netlify](https://www.netlify.com/) for being easy to use, effective, and free! I have many front-ends deployed there.
 
 
