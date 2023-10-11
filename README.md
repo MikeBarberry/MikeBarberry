@@ -2,7 +2,7 @@
 
  - My website (worth visiting!) :fireworks:  [MikeBarberry.com](https://mikebarberry.com)
 
- - Where I practice data structures & algorithms  :computer:  [Leetcode](https://leetcode.com/Mbarberry/)
+ - Where I practice data structures & algorithms  :hammer:  [Leetcode](https://leetcode.com/Mbarberry/)
 
  - Engineering blog  :pencil2:  [Medium](https://mikebarberry.medium.com/)
 
