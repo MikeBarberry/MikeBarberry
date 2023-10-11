@@ -7,8 +7,8 @@
  - Engineering [blog](https://mikebarberry.medium.com/)  :pencil2:  
 
  - Dedicated bootcamp GitHub [account](https://github.com/MikeBarberry-Flatiron) :couple:
- -   
-## Shoutouts :raised_hands::
+   
+## Acknowledgements :raised_hands::
 Big thanks to [Netlify](https://www.netlify.com/) for being easy to use, effective, and free! I have many front-ends deployed there.
 
 
