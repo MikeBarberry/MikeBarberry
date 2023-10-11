@@ -1,6 +1,6 @@
 ## Additonal Resources :sparkles::
 
- - My [website](https://mikebarberry.com) (worth visiting!) :city_sunrise: 
+ - My [website](https://mikebarberry.com) (worth visiting!) :house:
 
  - [Where](https://leetcode.com/Mbarberry/) I practice data structures & algorithms  :computer:  
 
