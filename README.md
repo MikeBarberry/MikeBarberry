@@ -1,4 +1,4 @@
-## Other Links :link::
+## Additonal Resources :blue_heart::
 
  - My [website](https://mikebarberry.com) (worth visiting!) :fireworks:  
 
