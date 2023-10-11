@@ -1,8 +1,8 @@
 ## Other Links :link::
 
- - My website (worth checking out!) — :fireworks:  [MikeBarberry.com](https://mikebarberry.com)
+ - My website (worth checking out!) :fireworks:  [MikeBarberry.com](https://mikebarberry.com)
 
- - Where I practice data structures & algorithms  o-->  :computer:  [Leetcode](https://leetcode.com/Mbarberry/)
+ - Where I practice data structures & algorithms  :computer:  [Leetcode](https://leetcode.com/Mbarberry/)
 
  - Engineering blog  o-->  :pencil2:  [Medium](https://mikebarberry.medium.com/)
 
