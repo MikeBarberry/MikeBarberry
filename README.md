@@ -4,7 +4,7 @@
 
  - [Where](https://leetcode.com/Mbarberry/) I practice data structures & algorithms  :computer:  
 
- - Engineering [blog](https://mikebarberry.medium.com/)  :pencil2:  
+ - Engineering [blog](https://mikebarberry.com/blog)  :pencil2:  
 
  - Dedicated bootcamp GitHub [account](https://github.com/MikeBarberry-Flatiron) :couple:
    
