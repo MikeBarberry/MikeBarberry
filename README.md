@@ -9,7 +9,9 @@
  - Dedicated bootcamp GitHub [account](https://github.com/MikeBarberry-Flatiron) :couple:
    
 ## Acknowledgements :pray::
-Big thanks to [Netlify](https://www.netlify.com/) for being easy to use, effective, and free! I have many front-ends deployed there.
+ - [Netlify](https://www.netlify.com/): intuitive, effective, and free! I have many front-ends deployed there.
+
+ - [MongoDB](https://www.mongodb.com/): fast, flexible and free! Hosts many of my personal project databases. 
 
 
 ![image title](http://blogs.agu.org/geospace/files/2016/01/5565696408_9849980bdb_o.jpg)
