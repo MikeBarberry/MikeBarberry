@@ -1,4 +1,4 @@
-## Additonal Resources :sparkles::
+## Additonal Resources :eyes:
 
  - My [website](https://mikebarberry.com) (contains my engineering blog, and other features!) :love_hotel:
 
@@ -6,7 +6,7 @@
 
  - Flatiron School Software Engineering Bootcamp GitHub [account](https://github.com/MikeBarberry-Flatiron) :black_joker:
    
-## Acknowledgements :pray::
+## Acknowledgements :shipit:
 <div style="display: flex; flex-direction: row; gap: 30px;"
   <div style="display: flex; flex-direction: column; gap: 10px; justify-content: center; align-items: center;">
     <p style="font-weight: bold;">Netlify</p>
