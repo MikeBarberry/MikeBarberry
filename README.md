@@ -6,9 +6,9 @@
 
  - Engineering [blog](https://mikebarberry.com/blog)  :pencil2:  
 
- - Dedicated bootcamp GitHub [account](https://github.com/MikeBarberry-Flatiron) :couple:
+ - Flatiron School Software Engineering Bootcamp GitHub [account](https://github.com/MikeBarberry-Flatiron) :github:
    
 ## Acknowledgements :pray::
- - [Netlify](https://www.netlify.com/): intuitive, effective, and free! I have many front-ends deployed there.
+ - [Netlify](https://www.netlify.com/): hosts many of my front-ends.
 
- - [MongoDB](https://www.mongodb.com/): fast, flexible and free! Hosts many of my personal project databases. 
+ - [MongoDB](https://www.mongodb.com/): hosts many of my databases. 
