@@ -8,5 +8,5 @@
    
 ## Acknowledgements :pray::
  - [Netlify](https://www.netlify.com/): hosts many of my front-ends.
-
+ - ![Netlify Logo](https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png)
  - [MongoDB](https://www.mongodb.com/): hosts many of my databases. 
