@@ -22,5 +22,5 @@
   </div>
 </div>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b7d80f14-bd39-45a5-a51b-6ef73116bf93/deploy-status)](https://app.netlify.com/sites/genuine-dango-78dfc9/deploys?branch=main)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7d80f14-bd39-45a5-a51b-6ef73116bf93/deploy-status?branch=main)](https://app.netlify.com/sites/genuine-dango-78dfc9/deploys)
 
