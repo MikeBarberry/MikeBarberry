@@ -1,6 +1,6 @@
 ## Additonal Resources :eyes:
 
- - My [website](https://mikebarberry.com) (contains my engineering blog, and other features!) :love_hotel:
+ - My [website](https://mikebarberry.com) (contains my engineering blog and other features!) :love_hotel:
 
  - [Where](https://leetcode.com/Mbarberry/) I practice data structures & algorithms  :space_invader:
 
