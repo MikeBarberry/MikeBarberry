@@ -8,7 +8,7 @@
 
 ## Acknowledgements :shipit:
 <div style="display: flex; flex-direction: row; gap: 30px;"
- <p>These companies offer free-tier products for developer testing and side/small projects.</p>
+ <p>These companies offer free tier products for testing and smaller scale projects.</p>
   <div style="display: flex; flex-direction: column; gap: 10px; justify-content: center; align-items: center;">
     <p style="font-weight: bold;">Netlify</p>
     <a href="https://www.netlify.com/">
