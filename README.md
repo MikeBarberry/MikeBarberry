@@ -1,10 +1,10 @@
 ## Additonal Resources :eyes:
 
- - My [website](https://mikebarberry.com) (contains my engineering blog and other features!) :love_hotel:
+ - MikeBarberry.com --> contains my engineering [blog](https://mikebarberry.com/blog), an animated 3D graphic, ...and more! :love_hotel:
 
- - [Where](https://leetcode.com/Mbarberry/) I practice data structures & algorithms  :space_invader:
+ - Where I practice data structures & [algorithms](https://leetcode.com/Mbarberry/) :space_invader:
 
- - Flatiron School Software Engineering Bootcamp GitHub [account](https://github.com/MikeBarberry-Flatiron) :black_joker:
+ - Flatiron School software engineering bootcamp [Github account](https://github.com/MikeBarberry-Flatiron) :black_joker:
 
 ## Acknowledgements :shipit:
 <div style="display: flex; flex-direction: row; gap: 30px;"
